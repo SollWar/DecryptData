@@ -1,2 +1,1 @@
 # Задание 1 для Zaycev.net <br>
-На Kotlin
