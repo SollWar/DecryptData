@@ -1,1 +1,1 @@
-# Задание 1 для Zaycev.net <br>
+# Задача 1. Zaycev.net
